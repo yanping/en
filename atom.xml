@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[ypchen's Octopress Blog]]></title>
+  <link href="http://chen.yanping.me/en/atom.xml" rel="self"/>
+  <link href="http://chen.yanping.me/en/"/>
+  <updated>2011-12-14T15:13:16+08:00</updated>
+  <id>http://chen.yanping.me/en/</id>
+  <author>
+    <name><![CDATA[ypchen]]></name>
+    <email><![CDATA[yanping.chen@cos.name]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[hello octopress]]></title>
+    <link href="http://chen.yanping.me/en/blog/2011/12/07/hello-octopress/"/>
+    <updated>2011-12-07T17:45:00+08:00</updated>
+    <id>http://chen.yanping.me/en/blog/2011/12/07/hello-octopress</id>
+    <content type="html"><![CDATA[<p>Hi!This is my english blog.</p>
+
+<p>I want to practice my English here!</p>
+]]></content>
+  </entry>
+  
+</feed>
